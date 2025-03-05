@@ -48,7 +48,7 @@ Before using these scripts, ensure you have the following installed:
 1. **Clone the repository** (or copy the scripts into your Git project):
 
     ```bash
-    git clone https://your.repo.url.git
+    git clone https://github.com/luisriverag/ollama_gitai/
     cd your-repo-directory
     ```
 
